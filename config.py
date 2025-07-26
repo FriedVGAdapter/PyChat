@@ -1,0 +1,6 @@
+APP_NAME = 'ChatApp'
+APP_VERSION = '1.0.0'
+APP_AUTHOR = 'Eelco Greidanus'
+
+SERVER_HOST = '0.0.0.0'
+SERVER_PORT = 8888
